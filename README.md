@@ -1,8 +1,8 @@
 # Hause_price_prediction
- That's a undergoing project, it will be updated by the time
- I will be trying to use pipelines in this project and another ways to open the files, i'm very excited with this project, 
- bacause I will start searching for alternative solutions and optimizing the modeling, despise what i said this project also
- isn't the best solution for the problemens, like the others is a way to me learn new thing.
+ That's a undergoing project. It will be updated by the time,
+ I will be trying to use pipelines in this project and another ways to open the files, I'm very excited with this project, 
+ bacause I will start searching for alternative solutions and optimizing the model, despise what i said this project also
+ isn't the best solution for the problemens, like the others this is a way to me learn new things.
  
  I got tried a lot of preprocessing and transformation functions, some of them don't worked very well and have been removed.
  the same way of these I also tried out a bit of machine learning models, I hope you enjoy it.
